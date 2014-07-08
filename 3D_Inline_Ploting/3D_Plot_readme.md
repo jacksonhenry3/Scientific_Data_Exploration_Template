@@ -1,0 +1,1 @@
+3d plots must be output as .obj files along with a .mtl file. This is easily done if you are using python's mayavi.mlab. Simply savefig as .obj.

@@ -7,3 +7,5 @@
   <li> Interactive equation auto visualization</li>
   <li> Inline hoverable definitions of terms and acronyms</li>
 </ul>
+
+Consider using webcomponents to create things like 3d figure element, or equation element.
